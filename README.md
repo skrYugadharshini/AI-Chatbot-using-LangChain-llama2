@@ -17,6 +17,7 @@ https://colab.research.google.com/drive/1Ad7a9zMmkxuXTOh1Z7-rNSICA4dybpM2?usp=sh
 
 This project fine-tunes the LLaMA 2–7B Chat model on the guanaco-llama2-1k dataset using QLoRA, a parameter-efficient fine-tuning method optimized for low-resource GPUs.
 
+![image](https://github.com/user-attachments/assets/5e3495dd-fd3f-4563-99be-8bd334eb4a43)
 
 
 🧠 Objective
