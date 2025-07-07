@@ -2,7 +2,7 @@
 LangChain, llama2 from Olama and Streamlit.
 ![image](https://github.com/user-attachments/assets/3bf4a5d9-9fea-43be-a7e3-806ac2af50a9)
 
-LLaMA 2–7B Chat Fine-Tuning with QLoRA on Colab
+#LLaMA 2–7B Chat Fine-Tuning with QLoRA on Colab
 
 This project fine-tunes the LLaMA 2–7B Chat model on the guanaco-llama2-1k dataset using QLoRA, a parameter-efficient fine-tuning method optimized for low-resource GPUs.
 
