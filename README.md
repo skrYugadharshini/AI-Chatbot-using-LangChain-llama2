@@ -6,8 +6,12 @@ LLaMA 2–7B Chat Fine-Tuning with QLoRA on Colab
 
 This project fine-tunes the LLaMA 2–7B Chat model on the guanaco-llama2-1k dataset using QLoRA, a parameter-efficient fine-tuning method optimized for low-resource GPUs.
 
+
+
 🧠 Objective
 Train a custom instruction-following model using the LLaMA 2–7B Chat model and a cleaned instruction dataset (Guanaco) following the LLaMA 2 prompt template.
+
+
 
 📦 Dataset
 Original Dataset: timdettmers/openassistant-guanaco
@@ -15,6 +19,8 @@ Original Dataset: timdettmers/openassistant-guanaco
 Formatted Dataset (LLaMA 2 template): mlabonne/guanaco-llama2-1k
 
 To understand how this dataset was prepared, refer to the Colab Notebook.
+
+
 
 
 ⚙️ Fine-Tuning Approach
@@ -27,7 +33,10 @@ LoRA adapters (low-rank approximation)
 Parameter-efficient fine-tuning (PEFT)
 
 
+
+
 🔧 Steps to Fine-Tune LLaMA 2–7B Chat Using QLoRA
+
 Choose the base model – Select LLaMA 2–7B Chat from Hugging Face.
 
 Select a dataset – Use or reformat an instruction dataset like openassistant-guanaco.
