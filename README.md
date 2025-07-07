@@ -31,6 +31,7 @@ Original Dataset: timdettmers/openassistant-guanaco
 Formatted Dataset (LLaMA 2 template): mlabonne/guanaco-llama2-1k
 
 To understand how this dataset was prepared, refer to the Colab Notebook.
+![image](https://github.com/user-attachments/assets/4540d3be-daf9-412f-9520-ed4b86316ba9)
 
 
 
