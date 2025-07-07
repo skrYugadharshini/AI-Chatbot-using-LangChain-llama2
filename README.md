@@ -45,6 +45,9 @@ LoRA adapters (low-rank approximation)
 
 Parameter-efficient fine-tuning (PEFT)
 
+![image](https://github.com/user-attachments/assets/4cd920b4-3229-4253-beaa-5b5177a35d3f)
+
+
 
 
 
